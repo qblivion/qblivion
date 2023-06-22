@@ -1,1 +1,1 @@
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/71896680/204624010-a3f35cbf-b819-41b4-be48-e7cb2a16e368.svg)
+![image](https://github.com/qblivion/qblivion/assets/71896680/7e193891-8c4b-4895-96b7-8ba71ca49ce9)
